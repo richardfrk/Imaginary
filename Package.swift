@@ -10,7 +10,7 @@ let package = Package(
             targets: ["Imaginary"]),
     ],
     dependencies: [
-      .package(url: "https://github.com/richardfrk/Cache", .exact("6.0.0"))
+      .package(url: "https://github.com/richardfrk/Cache", .exact("6.0.1"))
     ],
     targets: [
         .target(
